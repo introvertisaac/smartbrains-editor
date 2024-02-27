@@ -44,7 +44,7 @@ const Home = () => {
                             <span className='text-[#868CA0] text-xl hover:text-white'>Home</span>
                         </Link>
                     )}
-                    <Link className="flex gap-3 items-center justify-center" to={"https://github.com/utk145/Fullstack-Codepen-Clone"} target="_blank">
+                    <Link className="flex gap-3 items-center justify-center" to={""} target="_blank">
                         <span className='text-[#868CA0] text-xl italic hover:text-white'>@SmartbrainsKenya</span>
                     </Link>
                 </div>
